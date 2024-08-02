@@ -5,7 +5,6 @@ Esta aplicação permite que os usuários visualizem produtos e realizem compras
 
 ## Índice
 
-- [Demo](#demo)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
@@ -14,10 +13,6 @@ Esta aplicação permite que os usuários visualizem produtos e realizem compras
 - [Estrutura de Pastas](#estrutura-de-pastas)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
-
-## Demo
-
-Você pode ver uma demo funcionando [aqui](http://seulinkdemo.com).
 
 ## Tecnologias Utilizadas
 
