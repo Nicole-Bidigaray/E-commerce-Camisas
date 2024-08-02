@@ -12,7 +12,6 @@ Esta aplicação permite que os usuários visualizem produtos e realizem compras
 - [Scripts Disponíveis](#scripts-disponíveis)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Tecnologias Utilizadas
 
@@ -97,13 +96,10 @@ Isso iniciará o servidor de desenvolvimento em http://localhost:3000.
 
 Se você quiser contribuir com este projeto, por favor, abra uma issue ou envie um pull request. Todas as contribuições são bem-vindas!
 
-## Licença
-
 ### Explicação das Seções
 
 - **Título e Descrição**: Fornece uma introdução rápida ao projeto.
 - **Índice**: Facilita a navegação pelo documento.
-- **Demo**: Link para uma versão demo do projeto.
 - **Tecnologias Utilizadas**: Lista as principais tecnologias usadas no projeto.
 - **Instalação**: Passos detalhados para clonar o repositório e instalar as dependências.
 - **Configuração**: Instruções para configurar variáveis de ambiente necessárias para o projeto.
@@ -111,4 +107,3 @@ Se você quiser contribuir com este projeto, por favor, abra uma issue ou envie 
 - **Scripts Disponíveis**: Descrição dos scripts npm disponíveis para uso.
 - **Estrutura de Pastas**: Descrição da estrutura de pastas do projeto.
 - **Contribuição**: Informações sobre como contribuir para o projeto.
-- **Licença**: Informação sobre a licença do projeto.
