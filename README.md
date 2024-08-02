@@ -25,7 +25,7 @@ Esta aplicação permite que os usuários visualizem produtos e realizem compras
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/ignite-shop.git
+   git clone https://github.com/Nicole-Bidigaray/E-commerce-Camisas.git
    ```
 
 2. Navegue até o diretório do projeto:
